@@ -21,4 +21,5 @@ Pertanyaan
 
 
 Fitur
--	Admin    : login, logout, add pegawai, remove pegawai, cetak struk pembayaran, cek list absensi, edit absensi
+-	Admin    : login, logout, add pegawai, remove pegawai, cetak struk pembayaran, modul keuangan , dan modul mengelola data pegawai(Jadwal pegawai)
+-Pegawai : Modul cek absensi pegawai
