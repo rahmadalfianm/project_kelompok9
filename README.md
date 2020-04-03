@@ -1,3 +1,6 @@
+LINK HOSTING WEB GUEST HOUSE
+http://blacky57.000webhostapp.com/
+
 # project_kelompok9
 Achmad Rheza Darmawan 1841720115
 Muhammad Aqsal Zildjian 1841720191
@@ -18,8 +21,7 @@ Pertanyaan
 -	Apa saja yang didapatkan oleh pengunjung untuk setiap jenis kamar?
 
 
-
-
 Fitur
 -	Admin    : login, logout, add pegawai, remove pegawai, cetak struk pembayaran, modul keuangan , dan modul mengelola data pegawai(Jadwal pegawai)
 -Pegawai : Modul cek absensi pegawai
+
