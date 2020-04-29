@@ -1,6 +1,0 @@
-Database Name Reservasi GuestHouse : -guesthouse.sql
-Database Name Absensi Pegawai : -absensi.sql
-user name : - Admin
-password  : - 1234
-
-ENJOY DDDD
