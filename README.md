@@ -5,9 +5,8 @@ LINK YOUTUBE
 https://youtu.be/3xjbI_TOnlE
 
 # project_kelompok9
-Achmad Rheza Darmawan 1841720115
-Muhammad Aqsal Zildjian 1841720191
 Rahmad Alfian Maskuri 1841720048
+Achmad Rheza Darmawan 1841720115
 
 Projek Sistem Informasi Reservasi Guest House Syariah
 Jalan Perusahaan Karanglo no 6, Malang
@@ -25,6 +24,6 @@ Pertanyaan
 
 
 Fitur
--	Admin    : login, logout, add pegawai, remove pegawai, cetak struk pembayaran, modul keuangan , dan modul mengelola data pegawai(Jadwal pegawai)
+-	Admin    : login, logout, add pegawai, remove pegawai, cetak struk pembayaran, modul keuangan , dan modul mengelola data pegawai
 -Pegawai : Modul cek absensi pegawai
 
