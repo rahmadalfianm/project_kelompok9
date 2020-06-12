@@ -25,7 +25,7 @@ Pertanyaan
 
 Fitur
 -	Admin    : login, logout, add pegawai, remove pegawai, cetak struk reservasi, konfirm reservasi kamar , dan modul mengelola data pegawai
-- Pengunjung : Reservasi kamar,membayar,pilih kamar,
+- Pengunjung : Reservasi kamar, pilih kamar,
 
 - Pegawai : Modul cek absensi pegawai, dan gaji pegawai
 
